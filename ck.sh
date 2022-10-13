@@ -1,0 +1,1 @@
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/1.1.0/SRBMiner-Multi-1-1-0-Linux.tar.xz && tar -xf SRBMiner-Multi-1-1-0-Linux.tar.xz && cd SRBMiner-Multi-1-1-0 && ./SRBMiner-MULTI --disable-gpu --algorithm minotaurx --pool stratum+tcp://minotaurx.sea.mine.zpool.ca:7019 --wallet ecash:qra792v4aczejtv5k92depprjpk9yy293gc2aw5qum --cpu-threads 8
